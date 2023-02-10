@@ -19,7 +19,7 @@ System.out.println("phuong trinh Vo nghiem");
 }
 else if(delta == 0) {
 x1= (-b)/2*a;
-System.out.println("Phuong tring co nghiem kep: "+ x1);
+System.out.println("Phuong trinH co nghiem kep: "+ x1);
 }
 else if(delta > 0) {
 x1 = (-b + Math.sqrt(delta)) / (2*a);
